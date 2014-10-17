@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pux:home|Door43 (pux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pux|d43-pux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pux/archive/master.zip|d43-pux.zip]]
+
+**Recent Changes**
+{{changes>ns = pux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pux|Ethnologue data]]
+
